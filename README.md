@@ -175,3 +175,4 @@ Out-of-sample evaluation (2021–2024)
 - Cho, K. et al. (2014). Learning phrase representations using RNN encoder-decoder. *EMNLP 2014*.
 - Greff, K. et al. (2017). LSTM: A search space odyssey. *IEEE TNNLS*, 28(10), 2222–2232.
 - Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735–1780.
+- Hamilton, J.D. (1989). A new approach to the economic analysis of nonstationary time series and the business cycle. Econometrica, 57(2), 357–384.
