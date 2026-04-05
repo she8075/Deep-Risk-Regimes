@@ -2,7 +2,7 @@
 ### Can Neural Network Representations of Option Markets Improve Volatility Forecasting?
 
 **Course:** Deep Learning — Sorbonne School of Economics, 2026  
-**Author:** Shéhérazade Bouziani
+**Authors:** Shéhérazade Bouziani, Mourad Sylla, Hanane Larbi, Andrey Zaliznyak  
 **Program:** Master 2 Finance Technology Data (FTD), Université Paris 1 Panthéon-Sorbonne
 
 ---
